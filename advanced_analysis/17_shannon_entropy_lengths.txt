@@ -1,0 +1,1 @@
+Shannon Entropy of Collatz Sequence Lengths: 7.435666507317554
