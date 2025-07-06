@@ -224,7 +224,7 @@ print("Partial autocorrelation values saved.")
 # Create a directed graph for a small range to visualize transitions
 
 print("Creating network graph of Collatz transitions...")
-graph_range = min(250, ANALYSIS_RANGE) # Limit for visualization
+graph_range = min(100, ANALYSIS_RANGE) # Limit for visualization
 G = nx.DiGraph()
 for i in range(1, graph_range + 1):
     seq = _calculate_full_collatz_sequence(i)

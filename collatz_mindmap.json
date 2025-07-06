@@ -1,0 +1,359 @@
+{
+    "name": "1",
+    "children": [
+        {
+            "name": "2",
+            "children": [
+                {
+                    "name": "4",
+                    "children": [
+                        {
+                            "name": "8",
+                            "children": [
+                                {
+                                    "name": "16",
+                                    "children": [
+                                        {
+                                            "name": "5",
+                                            "children": [
+                                                {
+                                                    "name": "10",
+                                                    "children": [
+                                                        {
+                                                            "name": "3",
+                                                            "children": [
+                                                                {
+                                                                    "name": "6",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "12",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "24",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "48",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "96",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "192",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "384"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "20",
+                                                            "children": [
+                                                                {
+                                                                    "name": "40",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "13",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "26",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "52",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "17",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "34",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "11"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "68"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "104",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "208",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "69"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "416"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "80",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "160",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "53",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "106",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "35",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "70"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "212",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "424"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "320",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "640",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "213",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "426"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "1280",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "2560"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "32",
+                                            "children": [
+                                                {
+                                                    "name": "64",
+                                                    "children": [
+                                                        {
+                                                            "name": "21",
+                                                            "children": [
+                                                                {
+                                                                    "name": "42",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "84",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "168",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "336",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "672",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "1344",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "2688"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "128",
+                                                            "children": [
+                                                                {
+                                                                    "name": "256",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "85",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "170",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "340",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "113",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "226",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "75"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "452"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "680",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "1360",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "453"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "2720"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "512",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "1024",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "341",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "682",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "227",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "454"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "1364",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "2728"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "2048",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "4096",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "1365",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "2730"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "8192",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "16384"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
